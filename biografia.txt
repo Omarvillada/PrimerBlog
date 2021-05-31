@@ -1,0 +1,6 @@
+MI nombre es Omar Villada. Nací en el 26 de junio de 1997 en Medellín - Colombia.
+
+Soy estudiante de platzi en la escuela de Desarrollo de Software. Antes trabajaba en una compañía de Automatización y Sistematización de Procesos llamada ProcessOnLine.
+Me gusta mucho la literatura y las artes en general, cosa que se enemista con la estricta lógica y forma racional forma que tienen los programadores de ver el mundo.
+Pero ami esto no me inquieta, por que sé que un conocimiento te lleva a otro inevitablemente. Un día pensando en eso llegue a la conclusion de que nunca hay que parar de aprender.
+
