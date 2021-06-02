@@ -1,5 +1,6 @@
 body
 {
+    background: darkgrey;
     color: rgb(40, 40, 56);
     text-align: center;
     font-family: Arial;
@@ -24,6 +25,7 @@ body
 }
 #container
 {
+    background: white;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -40,6 +42,8 @@ body
 }
 #footer
 {
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     background: #777;
     color: white;
     text-align: center;
